@@ -1,0 +1,9 @@
+This is a LA crime data analysis using Spark SQL on Databricks.
+
+Analyzed 766k+ LA crime data with Databricks SQL (for big data), rating danger level of districts in respects of 
+crime type seriousness and deadly weapon usage and safety environment around UCLA, visualized in heatmap.
+
+The project has shown my ability to efficiently deal with big data analysis with appropriate BI tools and the ability
+to construct data dashboard for visualization.
+
+Also, it solved my concern a bit for safety living around UCLA when I study there. What a good news!
